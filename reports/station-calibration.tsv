@@ -1,0 +1,7 @@
+station_id	station_name	region	monthly_minutes	approved_checks	allocated_minutes	remaining_minutes	status
+NS-A	Alder Peak	Highland	90	1	60	30	PARTIAL
+NS-B	Beacon Marsh	Coast	60	1	25	35	PARTIAL
+NS-C	Copper Vale	Inland	45	0	0	45	UNUSED
+NS-D	Drift Point	Coast	120	2	120	0	FULL
+NS-E	Echo Ridge	Highland	30	1	20	10	PARTIAL
+NS-F	Fern Basin	Inland	75	1	75	0	FULL
